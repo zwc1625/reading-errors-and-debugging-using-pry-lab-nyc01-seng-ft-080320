@@ -1,7 +1,7 @@
 # module-1-debugging-lab
 Debug the instructor's broken code. YOU CAN DO IT!
 
-
+ -- Write readme to reflect that until "you_called.rb" is fixed, you won't be able to see the tests
 
 # TODO
 
