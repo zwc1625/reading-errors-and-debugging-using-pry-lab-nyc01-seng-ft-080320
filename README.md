@@ -1,4 +1,9 @@
+Debug the instructor's broken code. YOU CAN DO IT!
+
+
 Here's a thing that you should know.  Until you fix the "you_called.rb," ain't nothing gonna work. Not even the tests.  Get that fixed and go from there!
+
+Also, ignore "missing_file.rb". It's not working.
 
 
 
