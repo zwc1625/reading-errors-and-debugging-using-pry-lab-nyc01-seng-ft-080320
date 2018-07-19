@@ -10,8 +10,6 @@ ex.. def something (args)
       end
 
 
-mistake = and ==
-
 mistake .each and .map
 
 mistake + and +=
