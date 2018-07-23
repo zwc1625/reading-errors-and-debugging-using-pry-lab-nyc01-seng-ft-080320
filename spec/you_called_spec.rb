@@ -1,5 +1,5 @@
 # require 'pry'
-# require_relative '../method_errors/you_called'
+# require_relative '../first_priority/you_called'
 #
 # describe "Mario Party" do
 #   it "should call the super_mario_party method and return a string" do
