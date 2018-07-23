@@ -20,5 +20,3 @@ def runner
   state_log(date)
   greet_crew(crew)
 end
-
-puts runner
