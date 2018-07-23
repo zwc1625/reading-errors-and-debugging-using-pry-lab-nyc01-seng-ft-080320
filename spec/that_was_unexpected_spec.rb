@@ -1,5 +1,5 @@
 # require 'pry'
-# require_relative '../class/that_was_unexpected'
+# require_relative '../first_priority/that_was_unexpected'
 #
 # describe "expect the unexpected" do
 #   it "should tell me if the Person is a ballin candy lover" do

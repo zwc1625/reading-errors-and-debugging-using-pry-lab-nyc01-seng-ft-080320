@@ -1,4 +1,4 @@
-require_relative '../class/classical_gas'
+require_relative '../fix_using_tests/classical_gas'
 
 describe "classical_gas" do
   let(:dinobones) {GasStation.new("Dino Bones Gas and Grill", 60)}
