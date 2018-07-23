@@ -1,5 +1,5 @@
 require 'pry'
-require_relative '../class/enumerables'
+require_relative '../syntax/enumerables'
 
 describe "turtle traits" do
   it "should be able to iterate through the array without breaking." do

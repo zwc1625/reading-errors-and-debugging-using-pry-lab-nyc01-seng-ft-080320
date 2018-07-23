@@ -11,7 +11,7 @@ def crew
   ["Geordi", "Data", "Worf", "William", "Beverly", "Deanna"]
 end
 
-def greet_crew(crew)
+def greet_crew (crew)
   crew.each {|crew_member| "Hello #{crew_member}."}
 end
 

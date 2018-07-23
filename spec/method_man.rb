@@ -1,5 +1,5 @@
 require 'pry'
-require_relative '../method_errors/no_method'
+require_relative '../method_errors/method_man'
 
 describe "start_game" do
   it "should return greetings for each players name" do
