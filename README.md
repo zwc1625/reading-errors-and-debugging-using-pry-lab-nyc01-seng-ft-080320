@@ -1,18 +1,11 @@
-Debug the instructor's broken code. YOU CAN DO IT!
+# Debugging
 
+If you clone down this lab and run the tests, you'll notice something: everything's broken. Like, broken bad. The entire lab is so full of bugs that even the tests won't run!  And guess what?  It's on you to fix it!
 
-Here's a thing that you should know.  Until you fix the "you_called.rb," ain't nothing gonna work. Not even the tests.  Get that fixed and go from there!
+We've narrowed down the two biggest issues and put them into a folder called 'first_priority'.  Once you get the two files in there fixed, you should be able to run tests and start fixing the rest of the code.
 
-Also, ignore "missing_file.rb". It's not working.
+Keep in mind, this lab is about more than just finding and fixing the errors - it's about understanding how to look for what those errors are.  Don't just guess and test.
 
+And don't forget to use your best friend `binding.pry` to jump into your code and confirm your suspicions.
 
-
-
-# module-1-debugging-lab
-Debug the instructor's broken code. YOU CAN DO IT!
-
- -- Write readme to reflect that until "you_called.rb" is fixed, you won't be able to see the tests
-
-# TODO
-
-Nil class -- Passed in values are nil -- need to drop a binding to verify why -- error is usually cannot .... for Nil class
+  [An Intro to Ruby Debugging featuring Pry](https://medium.com/@TheDickWard/an-intro-to-ruby-debugging-featuring-pry-c931fde69069)
