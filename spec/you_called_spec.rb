@@ -1,4 +1,3 @@
-require 'pry'
 require_relative '../first_priority/you_called'
 
 describe "Mario Party" do

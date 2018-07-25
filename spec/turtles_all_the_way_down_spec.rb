@@ -1,4 +1,3 @@
-require 'pry'
 require_relative '../fix_using_tests/turtles_all_the_way_down'
 
 describe "turtles_all_the_way_down" do
