@@ -21,7 +21,7 @@ class Person
     if "baller, shot caller"
       true
     else
-      10 times do
+      10.times do
         "not a ballin candy lover"
     end
   end
