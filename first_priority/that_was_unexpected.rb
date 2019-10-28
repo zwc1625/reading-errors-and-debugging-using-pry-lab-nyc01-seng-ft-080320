@@ -1,8 +1,9 @@
 class Person
-  attr_accessor :name
+  attr_accessor :name, :candy_lover
 
-  def initialize(name)
+  def initialize(name, candy_lover)
     @name = name
+    @candy_lover = candy_lover
   end
 
   def tall?
@@ -14,12 +15,12 @@ class Person
   end
 
   def likes_candy?
-    true
+    @candy_lover
   end
 
   def ballin_candy_lover?
-    if "baller, shot caller"
-      true
+    if likes_candy?
+      "Aw sweet, this cat loves them some candy!"
     else
       10.times do
         "not a ballin candy lover"
