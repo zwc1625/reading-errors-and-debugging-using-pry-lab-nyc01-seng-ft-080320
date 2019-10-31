@@ -3,7 +3,8 @@ class GasStation
   # It writes "get" for these two instance variables.
   # https://www.rubyguides.com/2018/11/attr_accessor/
   # https://stackoverflow.com/questions/20018784/attr-accessor-vs-attr-reader-instance-variables/20018831
-  attr_reader :brand, :unleaded_price
+  attr_reader :brand
+  attr_accessor :unleaded_price
 
   def initialize(brand, unleaded_price)
     @brand = brand
